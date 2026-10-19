@@ -1,24 +1,148 @@
-<h1 align="center">Hi 👋, I'm Nibin Saju</h1>
-<h3 align="center">I’m Nibin Saju, BCA student at VIT Vellore and a self-learner. Like code, I break and heal, growing stronger with each patch. I learn and evolve not just for tech, but to protect and uplift what’s unseen and unheard</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nibin404&label=Profile%20views&color=0e75b6&style=flat" alt="nibin404" /> </p>
+# 👋 Hi, I'm Nibin Saju
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nibin404" alt="nibin404" /></a> </p>
+### 💻 Computer Science Student | Developer | Tech Enthusiast
 
-- 📫 How to reach me **nibinsaju007@gmail.com**
+🎓 B.Sc. Computer Science Student at Pondicherry University, India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/nibin-saju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/nibin-saju" height="30" width="40" /></a>
-<a href="https://fb.com/nibin saju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nibin saju" height="30" width="40" /></a>
-<a href="https://instagram.com/nibinnnn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nibinnnn_" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nibin404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/nibin404">
+    <img src="https://img.shields.io/github/followers/nibin404?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/nibin404?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=flat" alt="Repositories" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nibin404&show_icons=true&locale=en&layout=compact" alt="nibin404" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nibin404&show_icons=true&locale=en" alt="nibin404" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nibin404&" alt="nibin404" /></p>
+## 🚀 About Me
+
+Hi! I'm Nibin Saju, a Computer Science student passionate about
+technology, software development, cybersecurity, and building practical
+solutions to real-world problems.
+
+- 🎓 Pursuing B.Sc. Computer Science at Pondicherry University.
+- 💻 Exploring programming and software development.
+- 🔐 Interested in cybersecurity and ethical hacking.
+- 🌐 Learning web technologies and application development.
+- 🚀 Building projects that solve real-world problems.
+- 🤝 Open to collaborating on interesting projects and learning opportunities.
+- 📚 Continuously improving my technical and problem-solving skills.
+
+> "Every bug is a lesson, every project is progress, and every line of
+> code is an opportunity to build something meaningful."
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Programming Languages" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,django" alt="Web Development" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,gcp" alt="Tools and Platforms" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🇮🇳 Bharat Sanchari
+A proposed national-level super app concept focused on tourism,
+transportation, public services, and travel safety across India.
+
+### 🎓 PU Campus Marketplace
+A campus-focused marketplace concept designed to help university students
+discover products, connect with sellers, and negotiate deals.
+
+### 🏙️ Smart City Management System
+A project concept exploring how technology can support smarter urban
+services and improve city management.
+
+> Project descriptions should reflect the actual implementation status.
+> Add repository links when the projects are published on GitHub.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nibin404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibin404&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nibin404&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nibin404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nibin-saju/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/nibinnnn_/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="mailto:nibinsaju007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/nibin404">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat.
+
+⭐ Thanks for visiting my GitHub profile!
+
+</div>
