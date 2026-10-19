@@ -1,148 +1,109 @@
-<div align="center">
-
-# 👋 Hi, I'm Nibin Saju
-
-### 💻 Computer Science Student | Developer | Tech Enthusiast
-
-🎓 B.Sc. Computer Science Student at Pondicherry University, India
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nibin404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p>
-  <a href="https://github.com/nibin404">
-    <img src="https://img.shields.io/github/followers/nibin404?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/nibin404?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=flat" alt="Repositories" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-Hi! I'm Nibin Saju, a Computer Science student passionate about
-technology, software development, cybersecurity, and building practical
-solutions to real-world problems.
-
-- 🎓 Pursuing B.Sc. Computer Science at Pondicherry University.
-- 💻 Exploring programming and software development.
-- 🔐 Interested in cybersecurity and ethical hacking.
-- 🌐 Learning web technologies and application development.
-- 🚀 Building projects that solve real-world problems.
-- 🤝 Open to collaborating on interesting projects and learning opportunities.
-- 📚 Continuously improving my technical and problem-solving skills.
-
-> "Every bug is a lesson, every project is progress, and every line of
-> code is an opportunity to build something meaningful."
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Programming Languages" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,django" alt="Web Development" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,gcp" alt="Tools and Platforms" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🇮🇳 Bharat Sanchari
-A proposed national-level super app concept focused on tourism,
-transportation, public services, and travel safety across India.
-
-### 🎓 PU Campus Marketplace
-A campus-focused marketplace concept designed to help university students
-discover products, connect with sellers, and negotiate deals.
-
-### 🏙️ Smart City Management System
-A project concept exploring how technology can support smarter urban
-services and improve city management.
-
-> Project descriptions should reflect the actual implementation status.
-> Add repository links when the projects are published on GitHub.
-
----
-
-## 📊 GitHub Statistics
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nibin404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:0891b2&text=NIBIN%20SAJU&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn" alt="Nibin Saju Header"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibin404&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<br>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nibin404&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nibin404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/nibin-saju/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Nibin+Saju;Computer+Science+Undergraduate;Passionate+About+Technology;Exploring+Software+Development;Learning+%7C+Building+%7C+Growing" alt="Typing Animation"/>
 </a>
 
-<a href="https://www.instagram.com/nibinnnn_/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<br><br>
 
-<a href="mailto:nibinsaju007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://komarev.com/ghpvc/?username=nibin404&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views"/>
+
+<a href="https://github.com/nibin404?tab=followers">
+<img src="https://img.shields.io/github/followers/nibin404?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=020617" alt="GitHub Followers"/>
 </a>
 
 <a href="https://github.com/nibin404">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-nibin404-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <div align="center">
 
-### 💡 Learn. Build. Improve. Repeat.
+### 👨‍💻 Nibin Saju
 
-⭐ Thanks for visiting my GitHub profile!
+**B.Sc. Computer Science Undergraduate**
+
+🎓 **Pondicherry University | Central University, India**
 
 </div>
+
+<br>
+
+I'm a Computer Science undergraduate with a strong interest in
+technology, programming, software development, and cybersecurity.
+
+I enjoy understanding how systems work, exploring emerging
+technologies, and continuously improving my technical knowledge.
+
+My journey in technology is driven by curiosity, creativity,
+problem-solving, and a commitment to lifelong learning.
+
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+🎓 **Education**
+
+B.Sc. Computer Science  
+Pondicherry University
+
+</td>
+<td>
+
+💻 **Focus**
+
+Programming  
+Software Development
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔐 **Interests**
+
+Cybersecurity  
+Computer Networks
+
+</td>
+<td>
+
+🚀 **Mindset**
+
+Continuous Learning  
+Problem Solving
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">✦ CURRENT FOCUS ✦</h2>
+
+<div align="center">
+
+```text
+> Exploring Computer Science fundamentals
+> Strengthening programming and problem-solving skills
+> Learning software development concepts
+> Understanding computer networks and cybersecurity
+> Building technical knowledge through practical learning
